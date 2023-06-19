@@ -73,9 +73,6 @@ WHERE
     RETURN v_salary;
 END$$
 DELIMITER ;
-
-
-
 SELECT EMP_INFO('Aruna', 'Journel');
 
 
